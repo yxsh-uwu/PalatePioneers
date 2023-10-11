@@ -1,0 +1,108 @@
+.parent-div {
+    width: 1440px;
+    height: 1821px;
+    overflow: hidden;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+  }
+  .FRAME-24-7 {
+    transform: rotate(0deg);
+    position: relative;
+    width: 1440px;
+    height: 1821px;
+    left: 0px;
+    top: 0px;
+    opacity: 1;
+    overflow: hidden;
+    background: rgba(255, 255, 255, 1);
+    border: 1px solid rgba(0, 0, 0, 1);
+  
+    left: -1px !important;
+    top: -1px !important;
+  }
+  .RECTANGLE-24-32 {
+    position: absolute;
+    left: -3px;
+    top: -4px;
+    transform: rotate(0deg);
+    transform-origin: center !important;
+    background: rgba(255, 255, 255, 1);
+  
+    width: 1447px;
+    height: 77px;
+    opacity: 1;
+  }
+  .RECTANGLE-24-35 {
+    position: absolute;
+    left: 340px;
+    top: 19px;
+    transform: rotate(0deg);
+    transform-origin: center !important;
+    background: rgba(240, 240, 240, 1);
+  
+    border: 1px solid rgba(0, 0, 0, 1);
+  
+    border-radius: 5px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+  
+    width: 164px;
+    height: 39px;
+    opacity: 1;
+  }
+  .RECTANGLE-24-36 {
+    position: absolute;
+    left: 520px;
+    top: 19px;
+    transform: rotate(0deg);
+    transform-origin: center !important;
+    background: rgba(240, 240, 240, 1);
+  
+    border: 1px solid rgba(0, 0, 0, 1);
+  
+    border-radius: 5px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+  
+    width: 142px;
+    height: 39px;
+    opacity: 1;
+  }
+  .INSTANCE-24-44 {
+    transform: rotate(0deg);
+    position: absolute;
+    width: 156px;
+    height: 37px;
+    left: 1263px;
+    top: 16px;
+    opacity: 1;
+    overflow: hidden;
+    background: rgba(255, 255, 255, 1);
+    border: 1px solid rgba(0, 0, 0, 1);
+  
+    left: 1262px !important;
+    top: 15px !important;
+    border-radius: 30px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+  }
+  .RECTANGLE-24-60 {
+    position: absolute;
+    left: 0px;
+    top: 1366px;
+    transform: rotate(0deg);
+    transform-origin: center !important;
+    background: rgba(0, 0, 0, 1);
+  
+    width: 1440px;
+    height: 455px;
+    opacity: 1;
+  }
+  

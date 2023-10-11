@@ -1,0 +1,365 @@
+body{
+    width: 200px;
+    overflow-x: hidden;
+    height: 200px;
+}
+.parent-div {
+    width: 1440px;
+    height: 4271px;
+    overflow: hidden;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+  }
+  .FRAME-1-8 {
+    transform: rotate(0deg);
+    position: relative;
+    width: 1440px;
+    height: 4271px;
+    left: 0px;
+    top: 0px;
+    opacity: 1;
+    overflow: hidden;
+    background: rgba(255, 255, 255, 1);
+  }
+  .INSTANCE-12-14 {
+    transform: rotate(0deg);
+    position: absolute;
+    width: 1448px;
+    height: 916px;
+    left: -8px;
+    top: 77px;
+    opacity: 1;
+    overflow: hidden;
+  }
+  .RECTANGLE-12-19 {
+    position: absolute;
+    left: 0px;
+    top: -4px;
+    transform: rotate(0deg);
+    transform-origin: center !important;
+    background: rgba(255, 255, 255, 1);
+  
+    width: 1447px;
+    height: 77px;
+    opacity: 1;
+  }
+  .RECTANGLE-12-23 {
+    position: absolute;
+    left: 343px;
+    top: 19px;
+    transform: rotate(0deg);
+    transform-origin: center !important;
+    background: rgba(240, 240, 240, 1);
+  
+    border: 1px solid rgba(0, 0, 0, 1);
+  
+    border-radius: 5px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+  
+    width: 164px;
+    height: 39px;
+    opacity: 1;
+  }
+  .RECTANGLE-12-27 {
+    position: absolute;
+    left: 523px;
+    top: 19px;
+    transform: rotate(0deg);
+    transform-origin: center !important;
+    background: rgba(240, 240, 240, 1);
+  
+    border: 1px solid rgba(0, 0, 0, 1);
+  
+    border-radius: 5px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+  
+    width: 142px;
+    height: 39px;
+    opacity: 1;
+  }
+  .INSTANCE-12-38 {
+    transform: rotate(0deg);
+    position: absolute;
+    width: 156px;
+    height: 37px;
+    left: 1266px;
+    top: 16px;
+    opacity: 1;
+    overflow: hidden;
+    background: rgba(255, 255, 255, 1);
+    border: 1px solid rgba(0, 0, 0, 1);
+  
+    left: 1265px !important;
+    top: 15px !important;
+    border-radius: 30px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+  }
+  .RECTANGLE-12-44 {
+    position: absolute;
+    left: 110px;
+    top: 1245px;
+    transform: rotate(0deg);
+    transform-origin: center !important;
+    background: rgba(255, 255, 255, 1);
+  
+    border-radius: 8px;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+  
+    filter: drop-shadow(8px 8px 2px rgba(0, 0, 0, 0.25));
+  
+    width: 333px;
+    height: 353px;
+    opacity: 1;
+  }
+  .RECTANGLE-12-45 {
+    position: absolute;
+    left: 550px;
+    top: 1283px;
+    transform: rotate(0deg);
+    transform-origin: center !important;
+    background: rgba(255, 255, 255, 1);
+  
+    border-radius: 8px;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+  
+    filter: drop-shadow(5px 5px 2px rgba(0, 0, 0, 0.25));
+  
+    width: 333px;
+    height: 353px;
+    opacity: 1;
+  }
+  .RECTANGLE-12-49 {
+    position: absolute;
+    left: 979px;
+    top: 1225px;
+    transform: rotate(0deg);
+    transform-origin: center !important;
+    background: rgba(255, 255, 255, 1);
+  
+    border-radius: 8px;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+  
+    filter: drop-shadow(7px 7px 2px rgba(0, 0, 0, 0.25));
+  
+    width: 333px;
+    height: 198px;
+    opacity: 1;
+  }
+  .RECTANGLE-12-51 {
+    position: absolute;
+    left: 110px;
+    top: 2099px;
+    transform: rotate(0deg);
+    transform-origin: center !important;
+    background: rgba(255, 255, 255, 1);
+  
+    border-radius: 8px;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+  
+    filter: drop-shadow(0px 4px 2px rgba(0, 0, 0, 0.25));
+  
+    width: 333px;
+    height: 198px;
+    opacity: 1;
+  }
+  .RECTANGLE-12-48 {
+    position: absolute;
+    left: 549px;
+    top: 1729px;
+    transform: rotate(0deg);
+    transform-origin: center !important;
+    background: rgba(255, 255, 255, 1);
+  
+    border-radius: 8px;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+  
+    filter: drop-shadow(0px 4px 2px rgba(0, 0, 0, 0.25));
+  
+    width: 333px;
+    height: 353px;
+    opacity: 1;
+  }
+  .RECTANGLE-17-25 {
+    position: absolute;
+    left: 549px;
+    top: 1729px;
+    transform: rotate(0deg);
+    transform-origin: center !important;
+    background: rgba(255, 255, 255, 1);
+  
+    border-radius: 8px;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+  
+    filter: drop-shadow(0px 4px 2px rgba(0, 0, 0, 0.25));
+  
+    width: 333px;
+    height: 353px;
+    opacity: 1;
+  }
+  .RECTANGLE-12-46 {
+    position: absolute;
+    left: 979px;
+    top: 1496px;
+    transform: rotate(0deg);
+    transform-origin: center !important;
+    background: rgba(255, 255, 255, 1);
+  
+    border-radius: 8px;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+  
+    filter: drop-shadow(0px 4px 2px rgba(0, 0, 0, 0.25));
+  
+    width: 333px;
+    height: 353px;
+    opacity: 1;
+  }
+  .RECTANGLE-12-50 {
+    position: absolute;
+    left: 979px;
+    top: 1922px;
+    transform: rotate(0deg);
+    transform-origin: center !important;
+    background: rgba(255, 255, 255, 1);
+  
+    border-radius: 8px;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+  
+    filter: drop-shadow(0px 4px 2px rgba(0, 0, 0, 0.25));
+  
+    width: 333px;
+    height: 353px;
+    opacity: 1;
+  }
+  .RECTANGLE-12-47 {
+    position: absolute;
+    left: 110px;
+    top: 1658px;
+    transform: rotate(0deg);
+    transform-origin: center !important;
+    background: rgba(255, 255, 255, 1);
+  
+    border-radius: 8px;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+  
+    filter: drop-shadow(0px 4px 2px rgba(0, 0, 0, 0.25));
+  
+    width: 333px;
+    height: 353px;
+    opacity: 1;
+  }
+  .RECTANGLE-17-7 {
+    position: absolute;
+    left: 0px;
+    top: 2367px;
+    transform: rotate(0deg);
+    transform-origin: center !important;
+    background: rgba(209, 51, 52, 0.8);
+  
+    width: 1440px;
+    height: 556px;
+    opacity: 1;
+  }
+  .RECTANGLE-17-12 {
+    position: absolute;
+    left: 0px;
+    top: 3816px;
+    transform: rotate(0deg);
+    transform-origin: center !important;
+    background: rgba(0, 0, 0, 1);
+  
+    width: 1440px;
+    height: 455px;
+    opacity: 1;
+  }
+  .FRAME-17-62 {
+    transform: rotate(0deg);
+    position: absolute;
+    width: 658px;
+    height: 551px;
+    left: 741px;
+    top: 3152px;
+    opacity: 1;
+  }
+  .ELLIPSE-17-53 {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    transform: rotate(0deg);
+    transform-origin: center !important;
+    background: rgba(255, 18, 18, 1);
+  
+    border-radius: 50%;
+  
+    width: 64px;
+    height: 61px;
+    opacity: 1;
+    clip-path: url(#id-Ellipse22-31-Frame1-31-Desktop-1-svgpath);
+  }
+  .ELLIPSE-17-56 {
+    position: absolute;
+    left: 0px;
+    top: 202px;
+    transform: rotate(0deg);
+    transform-origin: center !important;
+    background: rgba(255, 18, 18, 1);
+  
+    border-radius: 50%;
+  
+    width: 64px;
+    height: 61px;
+    opacity: 1;
+    clip-path: url(#id-Ellipse23-31-Frame1-31-Desktop-1-svgpath);
+  }
+  .ELLIPSE-17-59 {
+    position: absolute;
+    left: 0px;
+    top: 404px;
+    transform: rotate(0deg);
+    transform-origin: center !important;
+    background: rgba(255, 18, 18, 1);
+  
+    border-radius: 50%;
+  
+    width: 64px;
+    height: 61px;
+    opacity: 1;
+    clip-path: url(#id-Ellipse24-31-Frame1-31-Desktop-1-svgpath);
+  }
+  
